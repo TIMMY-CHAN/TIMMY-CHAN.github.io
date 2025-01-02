@@ -17,7 +17,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title: Jiawei Chen's Homepage
+author:
+  name: Jiawei Chen
+  avatar: /assets/images/avatar.png
+  bio: CS graduate student specializing in visual language models.
+url: "https://TIMMY-CHAN.github.io/jiawei_chen.github.io"
+scholar: https://scholar.google.com/citations?user=ksiUbVkAAAAJ&hl=zh-CN
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
