@@ -23,6 +23,9 @@ author:
   avatar: /assets/images/avatar.png
   bio: CS graduate student specializing in visual language models.
 scholar: https://scholar.google.com/citations?user=ksiUbVkAAAAJ&hl=zh-CN
+url: "https://timmy-chan.github.io"
+plugins:
+  - jekyll-feed
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Jiawei Chen (陈嘉伟）
