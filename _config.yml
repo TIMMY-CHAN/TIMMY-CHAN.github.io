@@ -25,10 +25,10 @@ author:
 scholar: https://scholar.google.com/citations?user=ksiUbVkAAAAJ&hl=zh-CN
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jiawei Chen (陈嘉伟）"
-description              : "I am a master student at the Academy for Engineering and Technology of Fudan University. As a part of the Cognition and Intelligent Technology Laboratory (CIT Lab), I am advised by Prof. Lihua Zhang (National Thousand Talents Program). Prior to this, I received the
+name                     : Jiawei Chen (陈嘉伟）
+description              : I am a master student at the Academy for Engineering and Technology of Fudan University. As a part of the Cognition and Intelligent Technology Laboratory (CIT Lab), I am advised by Prof. Lihua Zhang (National Thousand Talents Program). Prior to this, I received the
                           Bachelor's degree in Robotics Engineering from Hohai University. And worked in Jiangsu Province Special Robot laboratory (2018-2022) under the guidance of Professor Xia Kang."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
