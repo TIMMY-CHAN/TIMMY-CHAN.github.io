@@ -124,10 +124,10 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : I am a master student at the Academy for Engineering and Technology of Fudan University. As a part of the Cognition and Intelligent Technology Laboratory (CIT Lab), I am advised by Prof. Lihua Zhang (National Thousand Talents Program). Prior to this, I received the
                           Bachelor's degree in Robotics Engineering from Hohai University. And worked in Jiangsu Province Special Robot laboratory (2018-2022) under the guidance of Professor Xia Kang.
-  location         : "Somewhere"
+  location         : "Shanghai, China"
   email            :
   links:
-    - label: "Email"
+    - label: <chenjiawei22@m.fudan.edu.cn>
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
