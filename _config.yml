@@ -18,11 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title: Jiawei Chen's Homepage
-author:
-  name: Jiawei Chen
-  avatar: /assets/images/avatar.png
-  bio: CS graduate student specializing in visual language models.
-scholar: https://scholar.google.com/citations?user=ksiUbVkAAAAJ&hl=zh-CN
+
 url: "https://timmy-chan.github.io"
 plugins:
   - jekyll-feed
@@ -125,9 +121,9 @@ author:
   bio              : I am a master student at the Academy for Engineering and Technology of Fudan University. As a part of the Cognition and Intelligent Technology Laboratory (CIT Lab), I am advised by Prof. Lihua Zhang (National Thousand Talents Program). Prior to this, I received the
                           Bachelor's degree in Robotics Engineering from Hohai University. And worked in Jiangsu Province Special Robot laboratory (2018-2022) under the guidance of Professor Xia Kang.
   location         : Shanghai, China
-  email            :
+  email            : <chenjiawei22@m.fudan.edu.cn>
   links:
-    - label: <chenjiawei22@m.fudan.edu.cn>
+    - label: ""
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
